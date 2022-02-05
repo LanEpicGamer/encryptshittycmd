@@ -1,0 +1,25 @@
+drop / undrop - drops 7,000$ Dahood cash on each alt account
+
+setup - setups alt account at the selected location <admin/bank/jailyard/club/highschool/subway> 
+
+moneygun Buy/on/off - Buys money gun and drops with the money gun on each alt account
+
+airlock / unairlock - <Brings alts but they are in the air>
+
+ad / unad -  sends the advert message on the alt accounts
+
+freeze / unfreeze - freezes alt accounts
+
+customdrop -  lets you drop a certain amount, and then stop
+
+surrond - <player name> <Brings alts but they around the player>
+
+reset - resets all the alts
+
+wallet / unwallet - Shows alt wallet
+
+block / unblock - blocks alts hand
+
+destroy / undestroy - destroys the cash for the alts
+
+vibe / unvibe - Makes alt dance <useless>
